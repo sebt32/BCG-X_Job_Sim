@@ -1,0 +1,1 @@
+This chatbot is a prototype that responds to predefined financial queries.
